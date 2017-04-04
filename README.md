@@ -48,7 +48,7 @@ I'll be adding extras to this, including functional testing and incorporating a 
 
 PetitePageProgress is MIT Licensed
 
-Copyright (c) 2017 @moosch
+Copyright (c) 2017 [@moosch](https://github.com/moosch)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
